@@ -1,0 +1,19 @@
+{
+  "name": "mocha-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BasavarajChannapattan/Mocha-scripts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BasavarajChannapattan/Mocha-scripts/issues"
+  },
+  "homepage": "https://github.com/BasavarajChannapattan/Mocha-scripts#readme"
+}
